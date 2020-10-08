@@ -9,6 +9,7 @@ public class MyGitClass {
 		System.out.println("Hello GitHub");
 		
 		System.out.println("Hello GitHub leaning");
+		System.out.println("Hello GitHub leaning- 3rd changes");
 
 	}
 
